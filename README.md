@@ -2,7 +2,7 @@
  
 A personal portfolio website showcasing my background, skills, and projects, with links to my GitHub and live project demos.
  
-**[View the live site →](https://akimits25.github.io/Portfolio/)**
+**[View the live site →](https://Aki-Mitsu.github.io/Portfolio/)**
  
 ---
  
