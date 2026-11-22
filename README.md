@@ -50,7 +50,7 @@ The portfolio is a single scrolling page. Scroll down to move through the sectio
 5. **Contact:** contact information, social links, and the **Get in Touch** button.
 ## Getting Started
  
-You can view the portfolio online at **[akimits25.github.io/Portfolio](https://akimits25.github.io/Portfolio/)**.
+You can view the portfolio online at **[Aki-Mitsu.github.io/Portfolio](https://Aki-Mitsu.github.io/Portfolio/)**.
  
 To run it locally:
  
@@ -65,5 +65,5 @@ cd Portfolio
 3. Open `index.html` in your browser.
 ## Contact
  
-Questions or opportunities? Use the **Get in Touch** button on the [live site](https://akimits25.github.io/Portfolio/) or reach me through the social links listed there.
+Questions or opportunities? Use the **Get in Touch** button on the [live site](https://Aki-Mitsu.github.io/Portfolio/) or reach me through the social links listed there.
  
